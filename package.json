@@ -11,15 +11,9 @@
     "Themes"
   ],
   "keywords": [
-    "theme",
-    "taha",
-    "dark",
-    "omarchy",
-    "matte black",
-    "low distraction"
   ],
   "publisher": "sebday",
-  "homepage": "https://taha.gg",
+  "homepage": "https://matteblacktheme.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/sebday/vscode-matte-black.git"
