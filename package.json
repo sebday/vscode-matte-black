@@ -1,0 +1,37 @@
+{
+  "name": "matteblack",
+  "displayName": "MatteBlack",
+  "description": "A low distraction dark theme.",
+  "version": "1.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "taha",
+    "dark",
+    "omarchy",
+    "matte black",
+    "low distraction"
+  ],
+  "publisher": "TahaYVR",
+  "homepage": "https://taha.gg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sebday/vscode-matte-black.git"
+  },
+  "icon": "./assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matte Black",
+        "uiTheme": "hc-black",
+        "path": "./themes/matte-black-color-theme.json"
+      }
+    ]
+  }
+}
