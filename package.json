@@ -1,8 +1,8 @@
 {
-  "name": "matteblack",
-  "displayName": "MatteBlack",
+  "name": "matte-black",
+  "displayName": "Matte Black",
   "description": "A low distraction dark theme.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "engines": {
     "vscode": "^1.103.0"
@@ -18,7 +18,7 @@
     "matte black",
     "low distraction"
   ],
-  "publisher": "TahaYVR",
+  "publisher": "sebday",
   "homepage": "https://taha.gg",
   "repository": {
     "type": "git",
